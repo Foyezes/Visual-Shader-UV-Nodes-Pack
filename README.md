@@ -7,7 +7,7 @@ Necessary UV Nodes For Godot 4. Includes `UVManipulation`, `UVPanner`, `UVTwirl`
 
 # Nodes
 ### UVManipulation
-Change pivot point, scale, rotate and offset UV.
+Change scale, rotate and offset UV.
 ### UVPanner
 Pans the UV based on Speed. Requires TIME input.
 ### UV Twirl
